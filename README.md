@@ -78,12 +78,12 @@
 ## 📊 GitHub Analytics  
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sitharahansamali&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sitharahansamali&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sitharahansamali&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -91,7 +91,7 @@
 ## 🏆 Achievements  
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sitharahansamali&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -99,7 +99,7 @@
 ## 🐍 Contribution Graph  
 
 <p>
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Sitharahansamali/Sitharahansamali/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
