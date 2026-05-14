@@ -1,7 +1,9 @@
-# 👋 Hi, I'm Sithara Hansamali  
-### 🧠 AI Engineer in Progress | 🚀 ML & Generative AI Enthusiast  
+# 👋 Hi, I'm Sithara Hansamali
+<p align="center">  
+🧠 AI Engineer in Progress | 🚀 ML & Generative AI Enthusiast
+</p>  
 
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Welcome+to+my+GitHub+Profile;AI+%7C+Machine+Learning+%7C+FastAPI;Building+Real-World+Intelligent+Systems;Always+Learning+%26+Exploring+New+Tech" />
 </p>
 
@@ -29,47 +31,44 @@
 ## 🛠 Tech Stack  
 
 ### 💻 Languages  
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cs,php" />
 </p>
 
 ---
 
 ### 🎨 Frontend  
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
 </p>
 
 ---
 
 ### ⚙️ Backend & APIs  
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,spring,fastapi,flask" />
 </p>
-
-- 🔹 API Development: FastAPI, Flask  
-- 🔹 Automation: n8n  
+ 
 
 ---
 
 ### 🧠 AI / Data Science  
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy,pandas,opencv" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 </p>
 
-- 🔹 Libraries: NumPy, Pandas, Matplotlib, OpenCV, scikit-learn, Transformers  
 
 ---
 
 ### 🗄 Databases  
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,mssql" />
 </p>
 
 ---
 
 ### ☁️ Cloud & Tools  
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,git,docker" />
 </p>
 
@@ -77,12 +76,12 @@
 
 ## 📊 GitHub Analytics  
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sitharahansamali&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sitharahansamali&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sitharahansamali&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -90,7 +89,7 @@
 
 ## 🏆 Achievements  
 
-<p>
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sitharahansamali&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
@@ -98,7 +97,7 @@
 
 ## 🐍 Contribution Graph  
 
-<p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/Sitharahansamali/Sitharahansamali/output/github-contribution-grid-snake.svg" />
 </p>
 
@@ -106,7 +105,7 @@
 
 ## 🌐 Connect With Me  
 
-<p>
+<p align="center" >
   <a href="https://www.linkedin.com/in/sithara-hansamali-8663a1296">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
@@ -114,8 +113,9 @@
     <img src="https://skillicons.dev/icons?i=webflow" />
   </a>
 </p>
-
-📧 Email: **sitharah.me@gmail.com**  
+<p align="center" >
+📧 Email: sitharah.me@gmail.com
+</p>
 
 ---
 
@@ -126,5 +126,5 @@
 ---
 
 <p align="center">
-  🚀 *"Building the future with AI, one project at a time"*  
+  🚀 Building the future with AI, one project at a time.
 </p>
